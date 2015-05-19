@@ -1,0 +1,1 @@
+Python module to estimate GARCH time series.
